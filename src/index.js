@@ -1,7 +1,4 @@
-/*!
- * maptalks.wmts v0.1.0
- * LICENSE : MIT
- */
+
 /*!
  * requires maptalks@^0.39.0 
  */
@@ -71,4 +68,4 @@ WMTSTileLayer.mergeOptions(options$v);
 
 export { WMTSTileLayer };
 
-typeof console !== 'undefined' && console.log('maptalks.wmts v0.1.0, requires maptalks@^0.39.0.');
+typeof console !== 'undefined' && console.log('requires maptalks@^0.39.0.');
