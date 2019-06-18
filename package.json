@@ -1,9 +1,17 @@
 {
-  "name": "maptalks.wmts",
+  "name": "library",
   "version": "1.0.0",
-  "description": "maptalks 加载 wmts 服务",
-  "main": "./lib/maptalks.wmts.js",
-  "repository": "https://github.com/dxiuxiu/maptalks.wmts.npm.git",
-  "author": "duxiuxiu <duxx@summit.com.cn>",
-  "license": "MIT"
+  "main": "./dist/library.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "duxx",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  },
+  "dependencies": {
+    "maptalks": "^0.44.2"
+  }
 }
