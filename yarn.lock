@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-maptalks.wmts@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/maptalks.wmts/-/maptalks.wmts-1.0.0.tgz#1ba19fab9d96cbb8c1334dca8856b0bbaa77be61"
-  integrity sha512-tAbvfSxI4WT1eFnKrg/DnP+IUJuu0TKZQb7l9pXIzw/ZcXFEkCiLci8NfTRxB4grTJQ1lEU0FwKFft3xVcYKFA==
+mddir@^1.1.1:
+  version "1.1.1"
+  resolved "http://r.cnpmjs.org/mddir/download/mddir-1.1.1.tgz#fa7ddd26b92558e6eb9f890d02d25a3f7cda056b"
+  integrity sha1-+n3dJrklWObrn4kNAtJaP3zaBWs=

@@ -1,0 +1,8 @@
+node_modules/*
+directoryList.md
+yarn.lock
+package.json
+demo/node_modules/*
+maptalks.wmts.npm/node_modules/*
+sourceCode/node_modules/*
+
